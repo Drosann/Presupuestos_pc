@@ -23,7 +23,7 @@
 ---
 
 **Precio total:** €880.82
-![PC AMD/Radeon](https://www.amd.com/content/dam/amd/en/images/technologies/amd-smart-technologies-tile.jpg)
+![PC AMD/Radeon](https://upload.wikimedia.org/wikipedia/commons/c/ca/New_AMD_Radeon_logo_%282020%29.svg)
 
 | Componente               | Especificaciones                          | Precio  |
 |--------------------------|------------------------------------------|---------|
